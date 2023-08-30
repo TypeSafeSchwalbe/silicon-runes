@@ -1,5 +1,5 @@
 # Silicon Runes
-*The language of the ancient civilisation that once trapped lightning inside of rocks to trick the rocks into thinking.*
+*The language of the ancient civilisation that once trapped lightning inside of rocks to trick the rocks into thinking for them.*
 
 Silicon Runes operate on two stacks, one being *the primary stack*, which values are pushed onto by default and where almost all operations are done, and the other being *the secondary stack*, which values can be moved to and from, making the language turing complete.
 
